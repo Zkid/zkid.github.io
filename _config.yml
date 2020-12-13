@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: GM Zierk yaps about chess
-description: This blog will cover various topics in chess I write articles about, with a bias toward practical tournament advice and the endgame.
+title: GM Zierk's chess thoughts and results
+description: This blog will cover various topics in chess I write articles about, with a bias toward practical tournament advice, strategy, and the endgame.
 github_username: Zkid
 
 # Email and twitter are optional:
@@ -15,7 +15,7 @@ email:
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
-use_math:
+use_math: true
 
 # Add your Google Analytics ID here if you have one and want to use it
 google_analytics:
